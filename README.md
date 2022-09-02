@@ -1,7 +1,9 @@
 # Sudoku_Solver
 
 This is a sudoku game solver using HTML, CSS, JavaScript.
+
 We uses Backtracking Algorithm to implement this solution, Reference can be used to  understand the algorithm.
+
 Similarity : N-Queens Problem.
 
 Reference:
