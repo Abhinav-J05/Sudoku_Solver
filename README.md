@@ -7,6 +7,7 @@ Similarity : N-Queens Problem.
 Reference:
 
 Link 1 : https://www.geeksforgeeks.org/backtracking-algorithms/
+
 Link 2 : https://www.geeksforgeeks.org/sudoku-backtracking-7/
 
 ![Screenshot (420)](https://user-images.githubusercontent.com/86758548/188035135-fff26f10-18e0-45a5-90ef-61bb7b97036f.png)
